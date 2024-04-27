@@ -6,13 +6,10 @@ Netflix Landing Page Clone made with HTML, CSS and JAVASCRIPT. We have also made
 
 <br>
 
-<div allign="center">
 ## 📸 Screenshot
 
 <br>
 
 ![Screenshot (4)](https://github.com/queencytech/Netflix-landing-page-clone/assets/110996087/8b99df27-3073-4807-acbd-7266796c6970)
 
-<br>
-</div>
 </div>
